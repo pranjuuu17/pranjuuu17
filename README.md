@@ -84,34 +84,6 @@ A web application developed using Java and Spring Boot, focused on creating a us
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pranjuuu17&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjuuu17&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pranjuuu17&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjuuu17&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
