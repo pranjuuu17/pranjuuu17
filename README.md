@@ -14,7 +14,6 @@
 - 🎓 Information Technology Student at Sinhgad College of Engineering, Vadgaon
 - 🎓 Computer Technology Diploma Graduate from Government Polytechnic, Nashik
 - 💻 Full Stack Java Developer Intern at Sumago Infotech
-- 🌱 Currently learning Java, Spring Boot, HTML, CSS and JavaScript
 - 💡 Interested in Software Development and Cybersecurity
 - 🚀 Passionate about building creative and practical projects
 - 🏆 2nd Prize – TECHNOVISTA State Level Coding Competition
